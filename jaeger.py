@@ -4,6 +4,10 @@
 Functions:
     main: Generate 3-time and 10-time figures in Frontiers in
         Plant Science manuscript.
+    test_causnet: Test CausNet with Jaeger network.
+    jaeger_ode: Drift of ODE in Jaeger et al.
+    nu_1_0: Basal production of FT.
+    reproduce_figure_s2: Reproduce Figure S2 in Jaeger et al.
 """
 # Plotting module.
 import pandas as pd
